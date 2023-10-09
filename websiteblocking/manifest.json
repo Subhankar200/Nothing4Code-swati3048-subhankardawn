@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "WebsiteBlocking",
+    "version": "1.0",
+    "description": "A productivity extension with various features",
+    "permissions": [
+      "storage",
+      "activeTab",
+      "webRequest",
+      "webNavigation",
+      "declarativeContent",
+      "tabs"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+      
+    }
+   
+   
+  
+    
+    
+   
+    
+   }
+  

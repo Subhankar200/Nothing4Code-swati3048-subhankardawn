@@ -1,0 +1,23 @@
+body {
+    width: 300px;
+    padding: 20px;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    margin: 5px 0;
+  }
+  
+  button {
+    margin: 10px 0;
+  }
+  
+  h1 {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
